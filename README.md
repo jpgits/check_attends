@@ -1,37 +1,15 @@
-# in-out-admin
-出勤を管理するpythonのみでのweb実装
+出勤を管理pythonweb実装
 
-## 特徴
-
-- 書類を楽にする
-
-## ライブラリやソフトウェア
-
-- python3
+## ライブラリ
 - poetry
 - requests
 - streamlit
-
-## インストール
-
-1. **クローン**
-   ```bash
-   git clone https://github.com/jpgits
-   cd 
-
-2. **poetryインストール**
+- fastapi
+1. **poetryインストール**
   ```bash
   curl -sSL https://install.python-poetry.org | python3 -
-
-
-
-3. **依存インストール**
+2. **インストール**
   ```bash
   poetry install
-
-
-- lit
-- uvi
-
 
 
